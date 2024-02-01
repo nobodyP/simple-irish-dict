@@ -19,138 +19,138 @@ mar	m ah dx
 ach	ah kh
 déan	jh ey ah n
 faoi	f iy
-nó  n o
-duine  d ih n eh
-tabhair  t ah w ah ih r
-féin  f ey ih n
-ní  n iy
-aon  iy n
-as  ah s
-chun
-eile
-abair
-mé
-tar
-cuid
-maith
-faigh
-sí
-ná
-bliain
-siad
-téigh
-nuair
-iad
-amach
-mo
-cé
-nach
-bain
-ceann
-gach
-tú
-rud
-í
-caith
-Gaeilge
-trí
-gan
-féidir
-lá
-chomh
-fear
-isteach
-fad
-áit
-beag
-am
-chuig
-Éire
-obair
-céad
-amháin
-taobh
-anois
-céile
-mac
-feic
-níos
-má
-teach
-ceart
-gur
-idir
-scéal
-tír
-saol
-bith
-roimh
-féad
-ceist
-ansin
-deireadh
-bean
-dóigh
-dá
-fios
-uair
-alt
-te
-pobal
-comhairle
-éirigh
-I
-aghaidh
-céanna
-arsa
-súil
-scoil
-síos
-fág
-nua
-glac
-roinn
-arís
-maidir
-teanga
-cás
-úsáid
-leith
-iarr
-tóg
-óg
-níor
-anseo
-thar
-tuig
-oíche
-aire
-baile
-cad
-lucht
-cúrsa
-eolas
-imigh
-méid
-leor
-lean
-fada
-caint
-leabhar
-scríobh
-acht
-seachtain
-feidhm
-lámh
-ceap
-tarlaigh
-ais
-mí
-léir
-áirigh
-ábhar
-féach
-bealach
+nó	n o
+duine	d ih n eh
+tabhair	t ah w ah ih r
+féin	f ey ih n
+ní	n iy
+aon	iy n
+as	ah s
+chun	kh ax n
+eile	eh l eh
+abair	ah b ah ih r
+mé	m ey
+tar	t ah r
+cuid	k ih jh
+maith	m ah ih hh
+faigh	f ay
+sí	sh iy	
+ná	n aw
+bliain	b l y ah ih n
+siad	sh y ah d
+téigh	ch ey
+nuair	n uw ah r
+iad	y ah d
+amach	ah m ah kh
+mo	m ah
+cé	k ey
+nach	n ah kh
+bain	b ay n
+ceann	k ae n
+gach	g ah kh
+tú	t uw
+rud	dx ah d
+í	iy
+caith	k ay hh
+Gaeilge	g w ih l g ax
+trí	t r iy
+gan	g ah n
+féidir	f ey jh ih r
+lá	l aw
+chomh	ch aw
+fear	f ah dx
+isteach	ih sh ch ae kh
+fad	f ah d
+áit	f aw ih ch
+beag	b ea g
+am	ah m
+chuig	kh ih g
+Éire	ey r eh
+obair	ah b er
+céad	k ey ah d
+amháin	ah w ey n
+taobh	t iy w
+anois	ah n ih sh
+céile	k ey l eh
+mac	m ah k
+feic	f eh k
+níos	n iy s
+má	m aw
+teach	ch ae kh
+ceart	k y aa r t
+gur	g er
+idir	ih jh ih r
+scéal	s k ey ah l
+tír	ch iy r
+saol	s iy l
+bith	b ih hh
+roimh	dx ay v
+féad	f ey d
+ceist	k ey sh t
+ansin	ah n sh ih n
+deireadh	jh eh dx uw
+bean	b ae n
+dóigh	d oy
+dá	d aw
+fios	f ih s
+uair	uw ay r
+alt	ah l t
+te	ch eh
+pobal	p ah b ah l
+comhairle	k ao r l y ax
+éirigh	iy r dx iy
+I	ih
+aghaidh	ay
+céanna	k y eh r n ax
+arsa	aa r s ax
+súil	s uw l
+scoil	s k ah l
+síos	sh iy s
+fág	f aa g
+nua	n uw ax
+glac	g l ah k
+roinn	r ay n
+arís	ah dx iy sh t
+maidir	m ah iy jh ih r
+teanga	ch ah ng g ax
+cás	k ae s
+úsáid	uw s aw jh
+leith	l eh hh
+iarr	iy aa r
+tóg	t o g
+óg	o g
+níor	n iy aa dx
+anseo	ah n sh ao
+thar	hh aa dx
+tuig	t ih g
+oíche	iy kh ih
+aire	ay dx ih
+baile	b ah l ih
+cad	k ah d
+lucht	l uh kh t
+cúrsa	k uw r s ah
+eolas	o l ax s
+imigh	ih m iy
+méid	m ey jh
+leor	l o dx
+lean	l ae n
+fada	f ah d ah
+caint	k ay n t
+leabhar	l ae w aa dx
+scríobh	s k r y aw
+acht	ah kh t
+seachtain	sh ah kh t ey n
+feidhm	f ey m
+lámh	l aw
+ceap	k ae p
+tarlaigh	t ah dx l ey
+ais	ae sh
+mí	m iy
+léir	l ey r
+áirigh	ey dx ih y
+ábhar	aw w aa dx	
+féach	f ey ah kh
+bealach	
 ard
 páiste
 muintir
