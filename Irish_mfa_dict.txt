@@ -150,41 +150,41 @@ léir	l ey r
 áirigh	ey dx ih y
 ábhar	aw w aa dx	
 féach	f ey ah kh
-bealach	
-ard
-páiste
-muintir
-airgead
-béal
-freisin
-bord
-rialtas
-uile
-siúil
-bunaigh
-gabh
-diaidh
-stát
-ainm
-suas
-athair
-dia
-fós
-ár
-ea
-seirbhís
-éigin
-clár
-talamh
-buail
-riamh
-muid
-focal
-tús
-mise
-beirt
-fiú
-linn
+bealach	b ae l ah kh
+ard	aa r d
+páiste	p aw sh ch eh
+muintir	m ih n ch ih r
+airgead	aa r g ae d
+béal	b eh l
+freisin	f dx eh sh ih n
+bord	b ao r d
+rialtas	r iy l t ax s
+uile	ih l ax
+siúil	sh uw l
+bunaigh	b ax n iy
+gabh	g o
+diaidh	jh ey
+stát	s t ae t
+ainm	ah n ih m
+suas	s uw ah s
+athair	ah hh ah r dx
+dia	jh y ah
+fós	f ao s
+ár	ah dx
+ea	ae
+seirbhís	sh eh dx b iy sh
+éigin	ey g ih n
+clár	k l eh dx
+talamh	t ah l uw
+buail	b w eh l
+riamh	r y aw
+muid	m oy jh
+focal	f ao k ax l
+tús	t uw s
+mise	m ih sh ax
+beirt	b er t
+fiú	f y uw
+linn	l ih n
 fan
 dar
 contae
